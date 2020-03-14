@@ -22,12 +22,13 @@ Andrea Uribe Rendón
 
 **Clasificador de fallas en sistemas de vibraciones**
 
-*   Descripción del problema
-*   Descripción y analítica de los datos
-*   Preparación y limpieza de los datos para el algoritmo
-*   Modelo de clasificación
-*   Conclusiones
-
+*   Importar librerías
+*   Importar la base de datos y descripción de los datos
+*   Analítica a los datos y limpieza de datos
+*   ModeloS de clasificación
+	- Árboles de decisión
+	- Random Forest 
+	
 - - - - - - - - - - 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
